@@ -30,7 +30,7 @@ Hint: To solve this challenge we will have to generate random characters and to 
 
 Good Luck.
 
-
+---
 
 ### **Project 2:  YouTube Downloader with Python.** 
  
@@ -56,4 +56,4 @@ from pytube import YouTube
 3). Link to your techinical article . 
 
 
-
+Good Luck.
