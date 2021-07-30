@@ -32,4 +32,28 @@ Good Luck.
 
 
 
-### **Project 2:  YouTube Downloader with Python.**
+### **Project 2:  YouTube Downloader with Python.** 
+ 
+ - Create Your YouTube Downloader With Python 3+
+
+**Hint:**
+
+```Python  
+
+from pytube import YouTube
+
+``` 
+
+### **Week 2 , Techinical  Writing Skills Test: With not less than 600 words write a techinacal article, Named "Introduction To Python Functions" .**
+
+
+**The task collected  from Saturday, the folowing links will be required:**
+
+1). GitHub Link to the source code, remember  to add a screenshot of the working program.
+
+2). Google colabs version of the code. 
+
+3). Link to your techinical article . 
+
+
+
