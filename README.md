@@ -19,7 +19,7 @@ Hint: To solve this challenge we will have to generate random characters and to 
 
 
 
-**The task collected  from Saturday, the folowing links will be required:**
+**The task will be collected from Saturday 24th July, the folowing links will be required:**
 
 1). GitHub Link to the source code, remember  to add a screenshot of the working program.
 
@@ -34,7 +34,7 @@ Good Luck.
 
 ### **Project 2:  YouTube Downloader with Python.** 
  
- - Create Your YouTube Downloader With Python 3+
+ - Create Your YouTube Downloader With Python 3+, feel free to use a web base user interface or tkinter to develop the desktop application.
 
 **Hint:**
 
@@ -47,9 +47,9 @@ from pytube import YouTube
 ### **Week 2 , Techinical  Writing Skills Test: With not less than 600 words write a techinacal article, Named "Introduction To Python Functions" .**
 
 
-**The task collected  from Saturday, the folowing links will be required:**
+**This task should be submitted from Saturday 31st July and the folowing links will be required:**
 
-1). GitHub Link to the source code, remember  to add a screenshot of the working program.
+1). GitHub Link to the source code, remember to add a screenshot of the working program.
 
 2). Google colabs version of the code. 
 
